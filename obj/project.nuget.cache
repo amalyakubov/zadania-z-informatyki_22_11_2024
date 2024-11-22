@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I2qhbx1+34k=",
+  "success": true,
+  "projectFilePath": "E:\\Amal\\Projects\\School\\REST_API\\REST_API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amaly\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\amaly\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
