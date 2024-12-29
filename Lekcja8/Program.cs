@@ -24,7 +24,6 @@ namespace Lekcja8
                 app.UseSwaggerUI();
             }
 
-            app.UseHttpsRedirection();
             app.UseAuthorization();
             app.MapControllers();
 
